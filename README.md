@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./github-banner.png" alt="ROMERO / ロメロ - ARCHIVE 001" width="100%" />
+</p>
+<p align="center">
   <img src="./assets/github-banner.png" alt="ROMERO / ロメロ - ARCHIVE 001" width="100%" />
 </p>
 
